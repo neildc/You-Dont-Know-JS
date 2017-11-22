@@ -1,21 +1,23 @@
 # Summary
-### Async & Performance
+
+## Async & Performance
+
+* [Introduction](README.md)
 * [Async & Performance](async/README.md)
-  
   * [Chapter 1: Asynchrony: Now & Later](async/ch1.md)
-    * A Program In Chunks
-    * Event Loop
-    * Parallel Threading
-    * Concurrency
-    * Jobs
-    * Statement Ordering
-  
+    * [A Program In Chunks](async/ch1.md#A Program In Chunks)
+    * [Event Loop](async/ch1.md#Event Loop)
+    * [Parallel Threading](async/ch1.md#Parallel Threading)
+    * [Concurrency](async/ch1.md#Concurrency)
+    * [Jobs](async/ch1.md#Jobs)
+    * [Statement Ordering](async/ch1.md#Statement Ordering)
+    * [Review](async/ch1.md#Review)
+
   * [Chapter 2: Callbacks](async/ch2.md)
     * Continuations
     * Sequential Brain
     * Trust Issues
     * Trying To Save Callbacks
-  
   * [Chapter 3: Promises](async/ch3.md)
     * What is a Promise?
     * Thenable Duck-Typing
@@ -25,7 +27,6 @@
     * Promise Patterns
     * Promise API Recap
     * Promise Limitations
-  
   * [Chapter 4: Generators](async/ch4.md)
     * Breaking Run-to-completion
     * Generator'ing Values
@@ -35,20 +36,18 @@
     * Generator Concurrency
     * Thunks
     * Pre-ES6 Generators
-  
   * [Chapter 5: Program Performance](async/ch5.md)
     * Web Workers
     * SIMD
     * asm.js
-  
   * [Chapter 6: Benchmarking & Tuning](async/ch6.md)
     * Benchmarking
     * Context Is King
     * jsPerf.com
     * Writing Good Tests
     * Microperformance
-    * Tail Call Optimization (TCO)
-  
-  * [Appendix A: *asynquence* Library](async/apA.md)
+    * Tail Call Optimization \(TCO\)
+  * [Appendix A: asynquence Library](async/apA.md)
   * [Appendix B: Advanced Async Patterns](async/apB.md)
   * [Appendix C: Acknowledgments](async.apC.md)
+
