@@ -5,7 +5,7 @@
 * [Introduction](README.md)
 * [Async & Performance](async/README.md)
   * [Chapter 1: Asynchrony: Now & Later](async/ch1.md)
-    * [A Program In Chunks](async/ch1.md#a-program-in-chunks)
+    * [AAA Program In Chunks](async/ch1.md#a-program-in-chunks)
     * [Event Loop](async/ch1.md#event-loop)
     * [Parallel Threading](async/ch1.md#parallel-threading)
     * [Concurrency](async/ch1.md#concurrency)
