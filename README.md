@@ -13,14 +13,21 @@ Please feel free to contribute to the quality of this content by submitting PR's
 
 **To read more about the motivations and perspective behind this book series, check out the [Preface](preface.md).**
 
+
 ## Titles
 
-* Read online (free!): ["Up & Going"](up\%20&\%20going/README.md#you-dont-know-js-up--going), Published: [Buy Now](http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/) in print, but the ebook format is free!
-* Read online (free!): ["Scope & Closures"](scope\%20&\%20closures/README.md#you-dont-know-js-scope--closures), Published: [Buy Now](http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/)
-* Read online (free!): ["this & Object Prototypes"](this\%20&\%20object\%20prototypes/README.md#you-dont-know-js-this--object-prototypes), Published: [Buy Now](http://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/)
-* Read online (free!): ["Types & Grammar"](types\%20&\%20grammar/README.md#you-dont-know-js-types--grammar), Published: [Buy Now](http://www.ebooks.com/1935541/you-don-t-know-js-types-grammar/simpson-kyle/)
-* Read online (free!): ["Async & Performance"](async\%20&\%20performance/README.md#you-dont-know-js-async--performance), Published: [Buy Now](http://www.ebooks.com/1977375/you-don-t-know-js-async-performance/simpson-kyle/)
-* Read online (free!): ["ES6 & Beyond"](es6\%20&\%20beyond/README.md#you-dont-know-js-es6--beyond), Published: [Buy Now](http://www.ebooks.com/2481820/you-don-t-know-js-es6-beyond/simpson-kyle/)
+["Up & Going"](up\%20&\%20going/README.md#you-dont-know-js-up--going)
+
+["Scope & Closures"](scope\%20&\%20closures/README.md#you-dont-know-js-scope--closures)
+
+["this & Object Prototypes"](this\%20&\%20object\%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+
+
+["Types & Grammar"](types\%20&\%20grammar/README.md#you-dont-know-js-types--grammar)
+
+["Async & Performance"](async/README.md)
+
+["ES6 & Beyond"](es6\%20&\%20beyond/README.md#you-dont-know-js-es6--beyond)
 
 ## Publishing
 
